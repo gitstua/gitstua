@@ -23,7 +23,8 @@ I am active in user groups and enjoy presenting and helping people in the commun
 
 ### Internal Microsoft
 - Apps & Infra Community lead in Australia (🦘) running Monthly lightning talks (⚡) to bring together our internal Australia and New Zealand technical communities
+- Azure Container Apps Champs community
 - APIM Ambassadors
-- DevOps champs
+- DevOps Champs
 - New starter onboarding buddy and advocate to enable those new to big tech to deliver great things
 - LinkedIn curator
