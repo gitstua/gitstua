@@ -16,7 +16,7 @@
 -	Twitter: [@cloudy_stuey](https://twitter.com/cloudy_stuey) 
 
 I am active in user groups and enjoy presenting and helping people in the community. Some speaking opportunities I had so far which are available on the web:
--	Microsoft Build – [Dads Taxi 🚕](https://mybuild.microsoft.com/sessions/60842814-8fc3-466c-a738-03b3ee7492e1?source=sessions)
+-	Microsoft Build – co-founder of [Dads Taxi 🚕](https://mybuild.microsoft.com/sessions/60842814-8fc3-466c-a738-03b3ee7492e1?source=sessions)
 -	Adventures in Dotnet - https://devchat.tv/adventures-in-dotnet/net-058-up-in-the-cloud-with-stu-eggerton/
 -	New BreakPoint - https://www.youtube.com/watch?v=WQT3Bt6R5io
 -	Australian Azure user group - [Real AUAZUG - YouTube](https://www.youtube.com/channel/UCkyqsgpoyPtvAxMUvDpHXOA)
