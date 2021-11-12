@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on ... Azure functions, DevOps, OpsDev, DevSecOps, DevStuOps
+- 🔭 I’m currently working on ... Azure Functions, Azure Container Apps, DevOps, OpsDev, DevSecOps, DevStuOps
 - 🌱 I’m currently learning ... anything I think is able to be fixed
 - 👯 I’m looking to collaborate on ... 
 - 🤔 I’m looking for help with ... Using software and cloud to make things better for all of us....
