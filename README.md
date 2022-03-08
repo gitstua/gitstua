@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on ... Azure Functions, Azure Container Apps, DevOps, OpsDev, DevSecOps, DevStuOps
 - 🌱 I’m currently learning ... anything I think is able to be fixed
-- 👯 I’m looking to collaborate on ... 
+- 👯 I’m looking to collaborate on ... hard problems shipping great products in the cloud
 - 🤔 I’m looking for help with ... Using software and cloud to make things better for all of us....
 - 💬 Ask me about ... GitHub,GitHub Actions, Azure DevOps, Web Workloads, winning with large projects in tough situations
 - 📫 How to reach me: ... www.stuarteggerton.com or www.linkedin.com/in/seggerton/
