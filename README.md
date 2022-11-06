@@ -28,3 +28,6 @@ I am active in user groups and enjoy presenting and helping people in the commun
 - DevOps Champs
 - New starter onboarding buddy and advocate to enable those new to big tech to deliver great things
 - LinkedIn curator
+
+### Social
+<a rel="me" href="https://aus.social/@cloudy_stuey">Mastodon</a>
