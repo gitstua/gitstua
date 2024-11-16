@@ -15,11 +15,14 @@
 -	Website: [stuarteggerton.com](https://stuarteggerton.com) 
 -	Twitter: [@cloudy_stuey](https://twitter.com/cloudy_stuey) 
 
+
+### Presentations
 I am active in user groups and enjoy presenting and helping people in the community. Some speaking opportunities I had so far which are available on the web:
 -	Microsoft Build – co-founder of [Dads Taxi 🚕](https://youtu.be/AvEbYiaP9FE?t=938)
 -	Adventures in Dotnet - https://devchat.tv/adventures-in-dotnet/net-058-up-in-the-cloud-with-stu-eggerton/
 -	New BreakPoint - https://www.youtube.com/watch?v=WQT3Bt6R5io
 -	Australian Azure user group - [Real AUAZUG - YouTube](https://www.youtube.com/channel/UCkyqsgpoyPtvAxMUvDpHXOA)
+-	Project Management Insitute - [How GenAI impacts developers](https://stuarteggerton.com/project-management-institute-presentation-how-gen-ai-impacts-developers/)
 
 ### Internal Microsoft
 - Apps & Infra Community lead in Australia (🦘) running Monthly lightning talks (⚡) to bring together our internal Australia and New Zealand technical communities
